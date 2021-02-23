@@ -3,7 +3,7 @@
 
 # Introduction
 We might have often heard travellers saying that flight ticket prices are so unpredictable. Huh! Here we take on the challenge.
-This is a data Science project which Predict the price of airlines with help of different algorithm
+This is a data Science project which Predict the price of airlines with help of different machine learning algorithm
 
 # Features
 
